@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	font-size: 16px;
+	font-family: 'georgia';
+	margin: 20;
+	padding: 0;
+	background-color: #FAEBD7;
+}
+img {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+.descriptions span {
+	display: inline-block;
+	margin: 5px;
+	padding: 5px 10px;
+	background-color: #FFA62F;
+}
+h1 {
+	color: #FFA62F;
+}
